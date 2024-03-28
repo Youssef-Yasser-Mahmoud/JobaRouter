@@ -1,3 +1,17 @@
+## JobaRouter
+
+### Description
+
+Join JobaRouter today and take the next step towards a fulfilling and rewarding career. Your dream job is just a click away!"
+
+### Tech
+
+| No.  | Languages     |
+|-----:|---------------|
+|     1| React         |
+|     2| CSS           |
+|     3| React Router  |
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
