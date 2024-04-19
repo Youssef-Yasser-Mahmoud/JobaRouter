@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JobaRouter/static/css/main.4782c68e.css",
+    "main.js": "/JobaRouter/static/js/main.50bacd55.js",
+    "static/js/787.de79a802.chunk.js": "/JobaRouter/static/js/787.de79a802.chunk.js",
+    "index.html": "/JobaRouter/index.html",
+    "main.4782c68e.css.map": "/JobaRouter/static/css/main.4782c68e.css.map",
+    "main.50bacd55.js.map": "/JobaRouter/static/js/main.50bacd55.js.map",
+    "787.de79a802.chunk.js.map": "/JobaRouter/static/js/787.de79a802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4782c68e.css",
+    "static/js/main.50bacd55.js"
+  ]
+}
